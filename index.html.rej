@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -0,6 +0,7 @@
+         </title>
+     </head>
+     <body>
++        <h1>Nama : GUE HANZ</h1>
+         <h1>Nim : 233307076</h1>
+         <h3>pilih jenis kelamin</h3>
+         <form>
