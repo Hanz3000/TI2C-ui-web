@@ -1,0 +1,57 @@
+form {
+    position: relative;
+    width: 60%;
+    height: 200px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: auto;
+}
+body{
+    background-color: aquamarine;
+}
+form h1{
+    padding: 1rem;
+    max-width: 150%;
+	margin: auto;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: white;
+    text-align: center;
+    background-color: #052869;
+    border-radius: 10px;
+	border: 2px solid #fff9f9;
+}
+
+table {
+    margin: 0 auto;
+    width: 100%; 
+}
+
+th, td {
+    border: 1px solid #070707;
+    padding: 8px;
+}
+
+th {
+    padding-top: 10px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #052869;;
+    color: rgb(255, 244, 244);
+    border-radius: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #fdfffe;
+}
+
+button {
+    background-color: #12ff35;
+    padding: 10px 40px ; 
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #11cc0b;
+}
